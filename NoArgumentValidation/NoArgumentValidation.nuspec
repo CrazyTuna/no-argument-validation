@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>NoArgumentValidation</id>
+    <version>1.0.1</version>
+    <title>Argument Validation</title>
+    <authors>CrazyTuna</authors>
+    <owners>ForeignQuiche</owners>
+    <licenseUrl>https://github.com/CrazyTuna/no-argument-validation/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/CrazyTuna/no-argument-validation</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A small library to validate method parameters.</description>
+    <releaseNotes>Move to portable class library.</releaseNotes>
+    <tags>Validation Argument Assert </tags>
+  </metadata>
+</package>

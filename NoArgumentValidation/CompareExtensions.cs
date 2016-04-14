@@ -7,7 +7,7 @@ namespace NoArgumentValidation
     /// <summary>
     /// Provides generic extension methods to compare values of generic type.
     /// </summary>
-    public static class CompareExtension
+    public static class CompareExtensions
     {
         /// <summary>
         /// Check if the specified <paramref name="value"/> is null or empty.
