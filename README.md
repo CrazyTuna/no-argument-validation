@@ -1,5 +1,7 @@
 # no-argument-validation
-A small library to validate method parameters (you can download it from [nuget](https://www.nuget.org/packages/NoArgumentValidation/)).
+A small library to validate method parameters for .NET, Windows Phone, Windows Store, Xamarin.iOS, Xamarin.Android, and Silverlight (you can download it from [nuget](https://www.nuget.org/packages/NoArgumentValidation/)).
+
+
 
 - AssertNotNull
 - AssertNotNullOrEmpty
